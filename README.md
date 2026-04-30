@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> سحرك خطفني في الليل الطويل
+> ونظرة عيونك تشفي العليل
+> في قلبي غرامك ملوش أي مثيل
+> معاك الثواني تعدي قليل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)

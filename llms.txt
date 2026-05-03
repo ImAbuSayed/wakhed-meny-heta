@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Wakhed Meny Heta |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 01, 2026 |
+| Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/wakhed-meny-heta/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> سحرك خطفني في الليل الطويل
+> ونظرة عيونك تشفي العليل
+> في قلبي غرامك ملوش أي مثيل
+> معاك الثواني تعدي قليل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
